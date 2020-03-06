@@ -1,0 +1,12 @@
+C:\Users\gustavo.ysreis\Desktop\PI 3\PI3\jogo\jogo\bin\Debug\jogo.exe.config
+C:\Users\gustavo.ysreis\Desktop\PI 3\PI3\jogo\jogo\bin\Debug\jogo.exe
+C:\Users\gustavo.ysreis\Desktop\PI 3\PI3\jogo\jogo\bin\Debug\jogo.pdb
+C:\Users\gustavo.ysreis\Desktop\PI 3\PI3\jogo\jogo\obj\Debug\jogo.csprojAssemblyReference.cache
+C:\Users\gustavo.ysreis\Desktop\PI 3\PI3\jogo\jogo\obj\Debug\jogo.Form1.resources
+C:\Users\gustavo.ysreis\Desktop\PI 3\PI3\jogo\jogo\obj\Debug\jogo.Properties.Resources.resources
+C:\Users\gustavo.ysreis\Desktop\PI 3\PI3\jogo\jogo\obj\Debug\jogo.csproj.GenerateResource.cache
+C:\Users\gustavo.ysreis\Desktop\PI 3\PI3\jogo\jogo\obj\Debug\jogo.exe
+C:\Users\gustavo.ysreis\Desktop\PI 3\PI3\jogo\jogo\obj\Debug\jogo.pdb
+C:\Users\gustavo.ysreis\Desktop\PI 3\PI3\jogo\jogo\bin\Debug\AzulServer.dll
+C:\Users\gustavo.ysreis\Desktop\PI 3\PI3\jogo\jogo\bin\Debug\AzulServer.xml
+C:\Users\gustavo.ysreis\Desktop\PI 3\PI3\jogo\jogo\obj\Debug\jogo.csproj.CopyComplete
